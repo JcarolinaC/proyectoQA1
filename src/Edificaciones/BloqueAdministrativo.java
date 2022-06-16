@@ -1,4 +1,4 @@
-package universidad.edificaciones;
+package Edificaciones;
 
 public class BloqueAdministrativo {
 }
